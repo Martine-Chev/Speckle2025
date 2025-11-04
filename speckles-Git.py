@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Speckles iterations.ipynb
+"""speckles-Git.py
 
 """
 
